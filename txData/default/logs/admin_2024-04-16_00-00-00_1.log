@@ -1,0 +1,22 @@
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 7900 Starting - 16/4/2024 20:08:55
+================================================================
+[20:09:18][GRINMORD] created admins file
+[20:09:34][GRINMORD] Changing global settings via setup stepper and started Deployer.
+[20:09:35][GRINMORD] Setting recipe.
+[20:09:41][GRINMORD] Running recipe.
+[20:12:36][GRINMORD] Completed and committed server deploy.
+[20:12:51][GRINMORD] Changing Player Manager settings.
+[20:13:37][MONITOR] Restarting server (server failed to start within time limit - 60s, no onResourceStarting received).
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 7900 Starting - 16/4/2024 21:07:14
+================================================================
+[21:07:43][GRINMORD] logged in from 127.0.0.1 via password
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 7900 Starting - 16/4/2024 21:24:09
+================================================================
+[21:24:33][GRINMORD] logged in from 127.0.0.1 via password
+[21:26:30][GRINMORD] Added whitelist approval for discord...56522077.

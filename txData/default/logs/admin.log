@@ -1,0 +1,26 @@
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 7900 Starting - 19/4/2024 17:39:23
+================================================================
+
+================================================================
+======== Log Rotated - 19/4/2024 17:39:23                       
+================================================================
+[17:39:52][GRINMORD] logged in from 127.0.0.1 via password
+[17:41:02][GRINMORD] Removed whitelist approval from discord:726585674756522077.
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 7900 Starting - 19/4/2024 18:08:42
+================================================================
+[18:10:13][GRINMORD] logged in from 127.0.0.1 via password
+[18:18:30][GRINMORD] executed "RESTART SERVER"
+[18:22:40][GRINMORD] Approved whitelist request from davidman¦.
+[18:22:59][GRINMORD] Added whitelist approval for discord...56522077.
+[18:23:35][GRINMORD] executed "RESTART SERVER"
+[18:23:52][GRINMORD] Changing global settings.
+[18:25:01][GRINMORD] executed "STOP SERVER"
+[18:25:01][GRINMORD] Resetting fxRunner settings.
+[18:26:17][GRINMORD] Changing global settings via setup stepper and started Deployer.
+[18:26:20][GRINMORD] Setting recipe.
+[18:27:18][GRINMORD] Running recipe.
+[18:30:11][GRINMORD] Completed and committed server deploy.
