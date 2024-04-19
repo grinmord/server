@@ -1,1 +1,45 @@
-[{"name":"GRINMORD","master":true,"password_hash":"$2a$11$N28g395X8nqa8kMSjdYk9uGdWkOil4CBhVQHJ0n7hy.YqiuW/zFSC","providers":{"citizenfx":{"id":"GRINMORD","identifier":"fivem:13748322","data":{"name":"GRINMORD","profile":"https://forum.cfx.re/u/GRINMORD","nameid":"https://forum.cfx.re/internal/user/13748322","picture":"https://forum.cfx.re/user_avatar/forum.cfx.re/grinmord/256/4273140_2.png"}},"discord":{"id":"726585674756522077","identifier":"discord:726585674756522077","data":{}}},"permissions":[]}]
+[
+  {
+    "name": "GRINMORD",
+    "master": true,
+    "password_hash": "$2a$11$N28g395X8nqa8kMSjdYk9uGdWkOil4CBhVQHJ0n7hy.YqiuW/zFSC",
+    "providers": {
+      "citizenfx": {
+        "id": "GRINMORD",
+        "identifier": "fivem:13748322",
+        "data": {
+          "name": "GRINMORD",
+          "profile": "https://forum.cfx.re/u/GRINMORD",
+          "nameid": "https://forum.cfx.re/internal/user/13748322",
+          "picture": "https://forum.cfx.re/user_avatar/forum.cfx.re/grinmord/256/4273140_2.png"
+        }
+      },
+      "discord": {
+        "id": "726585674756522077",
+        "identifier": "discord:726585674756522077",
+        "data": {}
+      }
+    },
+    "permissions": []
+  },
+  {
+    "name": "alexis",
+    "master": false,
+    "password_hash": "$2a$11$1UkXgckmamQFRomj8xMLHOU2zFQgdz5IhYNJcS/chaNvZtApLLB72",
+    "providers": {
+      "citizenfx": {
+        "id": "alexis0109",
+        "identifier": "fivem:13797818",
+        "data": {}
+      },
+      "discord": {
+        "id": "996146191953834125",
+        "identifier": "discord:996146191953834125",
+        "data": {}
+      }
+    },
+    "permissions": [
+      "all_permissions"
+    ]
+  }
+]

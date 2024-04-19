@@ -24,3 +24,15 @@
 [18:26:20][GRINMORD] Setting recipe.
 [18:27:18][GRINMORD] Running recipe.
 [18:30:11][GRINMORD] Completed and committed server deploy.
+[18:40:13][GRINMORD] Removed 04bb2fb6e5e2b24c1dc9e00c805e200c140e724e from the whitelist.
+[18:40:19][GRINMORD] executed "RESTART SERVER"
+[18:46:32][GRINMORD] executed "RESTART SERVER"
+[18:54:01][GRINMORD] executed "STOP SERVER"
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 7900 Starting - 19/4/2024 19:31:56
+================================================================
+[19:39:02][GRINMORD] logged in from 127.0.0.1 via password
+[19:39:05][GRINMORD] executed "RESTART SERVER"
+[19:43:12][GRINMORD] executed "RESTART SERVER"
+[19:45:10][GRINMORD] Approved whitelist request from ALEXIS.
