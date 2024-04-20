@@ -1,0 +1,129 @@
+			CREDITS
+		   (EXTERIOR & BASE)
+========================================
+			LSPD Skin
+
+LSPD Skin by Boee Studios
+
+Check out his discord at https://discord.gg/A2sQmN3VMv
+========================================
+			2018 Dodge Charger
+			
+Credits
+- Original vehicle model is 2015 Dodge Charger from Forza, edited into the 2018 Dodge Charger Pursuit by Matt with parts from FH3 and Gamemodels 
+- Seats, center mirror, shifter and dash edits modeled and done by Kane104 - commissioned by Ranger Rick
+- Major help from EVI for digital dial information and help to get the dials working and his patience to help me
+- Rear bumper diffuser modeled by Patrol 31 Normal edits by Steinberg
+- AWD/Charger badge modeled by iansonwheels Converted to V by Matt
+- AWD Steelies/Hubcap modeled by iansonwheels Converted to V by Matt 
+- Big thanks to Cj24 for beta testing the model and help with spec maps and normal maps and his overall knowledge of gta materials 
+- Interior dial textures made by NeonLazer
+- Interior button textures made by Slendis
+- Rims from Gamemodels.ru Centercap edited by Matt
+- Dome Light modeled by Matt
+- A big thanks to Cj24, Kane104, EVI, Patrol 31, Steinberg , Desmond , NeOnLaZeR, Izick, Rekram, HDgamerzPC, and a big thanks to Ranger Rick who bought 3D parts so that i wouldn't give up on this project and bought me a Zmodeler license so that i can keep working on this project Thank you Rick.
+- Thank you to everyone who supported me and the project...
+- Another big thanks to iansonwheels who had the time to make the AWD steelies and AWD package stuff....
+========================================
+			Generic antenna pack
+
+Model: Billy J modifications
+Textures: Billy J modifications
+========================================
+			PB400
+			
+PB400 by iansonwheels
+
+textures by iansonwheels and matt
+
+uvmapped dirt mapped burn map by matt
+========================================
+			Setina PB-5
+			
+- PB-5 Modeled by Dan with Da van
+- Textures by iansonwheels and matt
+========================================
+			Unity LED spotlight
+
+Unity LED spotlight modeled and textured by Cj24.
+========================================
+	       (Lighting)
+========================================
+			Whelen Dominator
+
+Whelen Linz6 Module scratch modeled by Five0/OfficerFive0
+Whelen Tir3 Module scratch modeled by Five0/OfficerFive0
+Whelen Dominator scratch modeled by Five0/OfficerFive0
+converted to gta 5 by Five0/OfficerFive0
+
+Linz6 emis texture by CJ24
+Tir3 texture by Five0, based off of CJ24's emis texture
+groove texture by neonlazer
+========================================
+			FS CN SignalMaster
+			
+FS CN SignalMaster modeled and textured by Cj24.
+========================================
+			FS Spectralux ILS
+
+FS Spectralux ILS modeled and textured by Cj24.
+========================================
+			Federal Signal Valor
+
+Federal Signal Valor modeled by- Twurtleee
+Textures for the Valor made by- NyDelta
+Textured by- NyDelta and Twurtleee
+========================================
+			Whelen Avenger
+
+Whelen Avenger scratch made and texuterd by 0taku
+========================================
+			Whelen ION
+
+Whelen ION scratch made and texuterd by 0taku
+Includes normal Ion, surfacemount and spirtfire variants
+========================================
+			(INTERIOR)
+========================================
+			Laptop Stand
+
+Laptop Stand by Twurtleee
+========================================
+			FS Siren Controller
+
+Federal Signal siren controller modeled and textured by Cj24.
+========================================
+			Havis Console
+
+Console modeled and textured by Cj24
+========================================
+			Kustom Signal Radar
+
+Kustom Signal Radars Modelled And Textured By - Jakub
+========================================
+			Window Protectors
+
+3D Modeled and textured by Maryland Modifications
+========================================
+			Progard Seat Organizer
+
+Made by ErinLindsay for GTA IV 
+Converted to GTA V by Koduuh
+========================================
+			Toughbook CF-31 Laptop
+
+Toughbook CF-31 modeled and textured by Cj24.
+========================================
+			SUV Trunk Cabinet with props
+
+- Trunk Cabinet 3d creation by panos_zaf using 3ds max student edition
+- UV mapped and converted to GTA V by panos_zaf, texture by panos_zaf
+- Fire extighuiser by Rockstar, textures by Rockstar
+- Armour by Rockstar, textures by Rockstar
+- Clipboard by Rockstar, textures by Rockstar
+- Cones by Rockstar, textures by Rockstar
+========================================
+			Pro-gard Charger partition
+
+All credit to Billy J modifications
+========================================

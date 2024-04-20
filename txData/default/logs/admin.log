@@ -76,3 +76,13 @@
 ================================================================
 [22:38:10][GRINMORD] logged in from 127.0.0.1 via password
 [22:44:46][GRINMORD] executed "RESTART SERVER"
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 7900 Starting - 19/4/2024 22:49:53
+================================================================
+[22:49:55][GRINMORD] logged in from 127.0.0.1 via password
+[23:05:08][GRINMORD] executed "RESTART SERVER"
+[23:39:12][GRINMORD] executed "RESTART SERVER"
+[23:40:47][GRINMORD] executed "RESTART SERVER"
+[23:48:12][GRINMORD] executed "RESTART SERVER"
+[23:49:44][GRINMORD] executed "RESTART SERVER"

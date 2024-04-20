@@ -1,0 +1,19 @@
+
+================================================================
+======== Log Rotated - 20/4/2024 0:00:00                        
+================================================================
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Connection refused <- System.Net.Http.HttpRequestException: Connection refused (212.231.121.165:45840)
+[ script:connectqueue] QUEUE: [97mALEXIS[license:e95752a787a62fedc9ee82e9297df538a1bd84fd] was placed 1/1 in queue
+[ script:connectqueue] QUEUE: ALEXIS[license:e95752a787a62fedc9ee82e9297df538a1bd84fd] is loading into the server
+[      script:qb-core] [qb-core:LOG] TREKFLAX PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Connection refused <- System.Net.Http.HttpRequestException: Connection refused (212.231.121.165:45840)
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Connection refused <- System.Net.Http.HttpRequestException: Connection refused (212.231.121.165:45840)
+[      script:qb-core] [qb-core:LOG] ALEXIS PLAYER SAVED!
+[script:qb-multichara] [qb-core] ALEXIS (Citizen ID: CHM88796) has successfully loaded!
+[      script:qb-core] [qb-core:LOG] ALEXIS PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] TREKFLAX PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Connection refused <- System.Net.Http.HttpRequestException: Connection refused (212.231.121.165:45840)
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG] ALEXIS PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] TREKFLAX PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
