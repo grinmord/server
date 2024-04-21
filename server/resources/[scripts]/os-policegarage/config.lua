@@ -122,29 +122,27 @@ Config.Turbo = true   -- Enable or disable turbo mod for vehicles.
 -- Define the vehicles available for each police department.
 -- Vehicles are automatically listed in the qb-menu based on these settings.
 Config.DepartmentVehicles = {
-    LSPD = {                -- Los Santos Police Department (LSPD)
-        Charger = {
-            model = "police", -- Actual Charger model name
-            label = "LSPD Charger",
-            primarycolor = 111,
-            secondarycolor = 0,
-            livery = 2,
-            rank = 2,
-            job = "lspd",
-            mods = {
-                { id = 0, modenabled = -1 }, -- id 0 represents the Spoiler modification. The 'modenabled' field uses -1 for level 0, 0 for level 1, and so on.
-            },
-            extras = {
-                { id = 1, enabled = 0 }, -- For vehicle extras, '0' indicates enabled, and '1' indicates disabled.
-                { id = 2, enabled = 0 },
-                { id = 3, enabled = 0 },
-                { id = 4, enabled = 0 },
-                { id = 5, enabled = 0 },
-                { id = 6, enabled = 0 },
-                { id = 7, enabled = 0 },
-                { id = 8, enabled = 0 }
-            }
+    LSPD = {
+        model = "police1", -- Actual CVPI model name
+        label = "LSPD Charger",
+        primarycolor = 0,
+        secondarycolor = 111,
+        livery = 0,
+        rank = 0,
+        mods = {
+            { id = 0, modenabled = -1 }, -- id 0 represents the Spoiler modification. The 'modenabled' field uses -1 for level 0, 0 for level 1, and so on.
         },
+        extras = {
+            { id = 1, enabled = 0 }, -- For vehicle extras, '0' indicates enabled, and '1' indicates disabled.
+            { id = 2, enabled = 0 },
+            { id = 3, enabled = 0 },
+            { id = 4, enabled = 0 },
+            { id = 5, enabled = 0 },
+            { id = 6, enabled = 0 },
+            { id = 7, enabled = 0 },
+            { id = 8, enabled = 0 }
+        }
+    },
         CVPI = {
             model = "police2", -- Actual CVPI model name
             label = "LSPD CVPI",

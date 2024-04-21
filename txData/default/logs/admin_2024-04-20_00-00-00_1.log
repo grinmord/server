@@ -1,0 +1,107 @@
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 7900 Starting - 19/4/2024 17:39:23
+================================================================
+
+================================================================
+======== Log Rotated - 19/4/2024 17:39:23                       
+================================================================
+[17:39:52][GRINMORD] logged in from 127.0.0.1 via password
+[17:41:02][GRINMORD] Removed whitelist approval from discord:726585674756522077.
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 7900 Starting - 19/4/2024 18:08:42
+================================================================
+[18:10:13][GRINMORD] logged in from 127.0.0.1 via password
+[18:18:30][GRINMORD] executed "RESTART SERVER"
+[18:22:40][GRINMORD] Approved whitelist request from davidman¦.
+[18:22:59][GRINMORD] Added whitelist approval for discord...56522077.
+[18:23:35][GRINMORD] executed "RESTART SERVER"
+[18:23:52][GRINMORD] Changing global settings.
+[18:25:01][GRINMORD] executed "STOP SERVER"
+[18:25:01][GRINMORD] Resetting fxRunner settings.
+[18:26:17][GRINMORD] Changing global settings via setup stepper and started Deployer.
+[18:26:20][GRINMORD] Setting recipe.
+[18:27:18][GRINMORD] Running recipe.
+[18:30:11][GRINMORD] Completed and committed server deploy.
+[18:40:13][GRINMORD] Removed 04bb2fb6e5e2b24c1dc9e00c805e200c140e724e from the whitelist.
+[18:40:19][GRINMORD] executed "RESTART SERVER"
+[18:46:32][GRINMORD] executed "RESTART SERVER"
+[18:54:01][GRINMORD] executed "STOP SERVER"
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 7900 Starting - 19/4/2024 19:31:56
+================================================================
+[19:39:02][GRINMORD] logged in from 127.0.0.1 via password
+[19:39:05][GRINMORD] executed "RESTART SERVER"
+[19:43:12][GRINMORD] executed "RESTART SERVER"
+[19:45:10][GRINMORD] Approved whitelist request from ALEXIS.
+[19:53:38][GRINMORD] Adding admin 'alexis'.
+[19:57:57][alexis] Changing own password.
+[20:03:26][alexis] Warned player [1] TREKFLAX: HOla
+[20:04:41][alexis] Revoked warn id WWFT-WGYB from TREKFLAX
+[20:52:06][GRINMORD] executed "STOP SERVER"
+[21:30:25][GRINMORD] executed "START SERVER"
+[21:33:20][GRINMORD] executed "RESTART SERVER"
+[21:34:48][GRINMORD] executed "RESTART SERVER"
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 7900 Starting - 19/4/2024 21:39:17
+================================================================
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 7900 Starting - 19/4/2024 21:40:56
+================================================================
+[21:41:35][GRINMORD] logged in from 127.0.0.1 via password
+[21:42:49][GRINMORD] executed "RESTART SERVER"
+[22:11:10][GRINMORD] Added whitelist approval for steam...4ae5af72.
+[22:16:32][GRINMORD] executed "RESTART SERVER"
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 7900 Starting - 19/4/2024 22:26:38
+================================================================
+[22:26:50][GRINMORD] logged in from 127.0.0.1 via password
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 7900 Starting - 19/4/2024 22:30:59
+================================================================
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 7900 Starting - 19/4/2024 22:31:51
+================================================================
+[22:33:00][GRINMORD] logged in from 127.0.0.1 via password
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 7900 Starting - 19/4/2024 22:37:41
+================================================================
+[22:38:10][GRINMORD] logged in from 127.0.0.1 via password
+[22:44:46][GRINMORD] executed "RESTART SERVER"
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 7900 Starting - 19/4/2024 22:49:53
+================================================================
+[22:49:55][GRINMORD] logged in from 127.0.0.1 via password
+[23:05:08][GRINMORD] executed "RESTART SERVER"
+[23:39:12][GRINMORD] executed "RESTART SERVER"
+[23:40:47][GRINMORD] executed "RESTART SERVER"
+[23:48:12][GRINMORD] executed "RESTART SERVER"
+[23:49:44][GRINMORD] executed "RESTART SERVER"
+[00:38:07][GRINMORD] Sending announcement: reinicio
+[00:38:12][GRINMORD] executed "RESTART SERVER"
+[01:01:01][GRINMORD] executed "RESTART SERVER"
+[01:01:10][GRINMORD] executed "STOP SERVER"
+[01:05:09][GRINMORD] executed "START SERVER"
+[01:06:06][GRINMORD] executed "RESTART SERVER"
+[01:49:15][GRINMORD] executed "RESTART SERVER"
+[02:26:14][GRINMORD] executed "STOP SERVER"
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 7900 Starting - 20/4/2024 12:31:59
+================================================================
+[12:32:51][GRINMORD] logged in from 127.0.0.1 via password
+[12:36:43][GRINMORD] executed "STOP SERVER"
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 7900 Starting - 20/4/2024 15:07:21
+================================================================
+[15:07:24][GRINMORD] logged in from 127.0.0.1 via password

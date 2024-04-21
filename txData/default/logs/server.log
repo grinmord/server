@@ -1,508 +1,100 @@
 
 ================================================================
-======== Log Rotated - 20/4/2024 0:00:00                        
+======== txAdmin Starting - 21/4/2024 11:53:05                  
 ================================================================
-[0:00:13] [hQwFc#2] TREKFLAX: enabled noclip
-[0:00:14] [hQwFc#2] TREKFLAX: became mortal (standard mode)
-[0:00:27] [hQwFc#2] TREKFLAX: enabled noclip
-[0:00:29] [hQwFc#2] TREKFLAX: became mortal (standard mode)
-[0:00:33] [hQwFc#2] TREKFLAX: teleported to a waypoint
-[0:00:52] [hQwFc#2] TREKFLAX: enabled noclip
-[0:00:58] [hQwFc#2] TREKFLAX: became mortal (standard mode)
-[0:00:59] [hQwFc#2] TREKFLAX: died from suicide (Falling)
-[0:01:02] [hQwFc#2] TREKFLAX: healed themself
-[0:01:06] [hQwFc#2] TREKFLAX: enabled noclip
-[0:01:06] [hQwFc#2] TREKFLAX: became mortal (standard mode)
-[0:01:07] [hQwFc#2] TREKFLAX: healed themself
-[0:01:07] [hQwFc#2] TREKFLAX: healed themself
-[0:01:08] [hQwFc#2] TREKFLAX: healed themself
-[0:01:08] [hQwFc#2] TREKFLAX: healed themself
-[0:01:11] [hQwFc#2] TREKFLAX: enabled noclip
-[0:01:14] [hQwFc#2] TREKFLAX: became mortal (standard mode)
-[0:01:56] [hQwFc#2] TREKFLAX: enabled noclip
-[0:02:03] [hQwFc#2] TREKFLAX: became mortal (standard mode)
-[0:02:27] [hQwFc#2] TREKFLAX: enabled noclip
-[0:02:28] [hQwFc#2] TREKFLAX: became mortal (standard mode)
-[0:03:26] [hQwFc#2] TREKFLAX: enabled noclip
-[0:03:28] [hQwFc#2] TREKFLAX: became mortal (standard mode)
-[0:03:29] [hQwFc#2] TREKFLAX: enabled noclip
-[0:03:32] [hQwFc#2] TREKFLAX: became mortal (standard mode)
-[0:03:36] [hQwFc#2] TREKFLAX: teleported to a waypoint
-[0:03:49] [hQwFc#2] TREKFLAX: enabled noclip
-[0:03:54] [hQwFc#2] TREKFLAX: became mortal (standard mode)
-[0:03:54] [hQwFc#2] TREKFLAX: enabled noclip
-[0:03:55] [hQwFc#2] TREKFLAX: became mortal (standard mode)
-[0:04:12] [hQwFc#2] TREKFLAX: enabled noclip
-[0:04:17] [hQwFc#2] TREKFLAX: became mortal (standard mode)
-[0:04:29] [hQwFc#2] TREKFLAX: enabled noclip
-[0:04:36] [hQwFc#2] TREKFLAX: became mortal (standard mode)
-[0:04:39] [hQwFc#2] TREKFLAX: enabled noclip
-[0:04:39] [hQwFc#2] TREKFLAX: became mortal (standard mode)
-[0:05:16] [hQwFc#2] TREKFLAX: teleported to a waypoint
-[0:05:49] [hQwFc#2] TREKFLAX: teleported to a waypoint
-[0:05:53] [hQwFc#2] TREKFLAX: enabled noclip
-[0:05:55] [hQwFc#2] TREKFLAX: became mortal (standard mode)
-[0:06:01] [hQwFc#2] TREKFLAX: enabled noclip
-[0:06:01] [hQwFc#2] TREKFLAX: became mortal (standard mode)
-[0:06:06] [hQwFc#2] TREKFLAX: enabled noclip
-[0:06:08] [hQwFc#2] TREKFLAX: became mortal (standard mode)
-[0:06:21] [hQwFc#2] TREKFLAX: enabled noclip
-[0:06:22] [hQwFc#2] TREKFLAX: became mortal (standard mode)
-[0:06:36] [hQwFc#2] TREKFLAX: enabled noclip
-[0:06:37] [hQwFc#2] TREKFLAX: became mortal (standard mode)
-[0:06:39] [hQwFc#2] TREKFLAX: teleported to a waypoint
-[0:06:43] [hQwFc#2] TREKFLAX: turned show player IDs on
-[0:06:47] [hQwFc#2] TREKFLAX: enabled noclip
-[0:06:51] [hQwFc#2] TREKFLAX: became mortal (standard mode)
-[0:07:04] [hQwFc#2] TREKFLAX: teleported to a waypoint
-[0:07:25] [hQwFc#3] ALEXIS: joined with identifiers [license:e95752a787a62fedc9ee82e9297df538a1bd84fd; discord:996146191953834125; fivem:13797818; license2:e95752a787a62fedc9ee82e9297df538a1bd84fd]
-[0:07:29] [hQwFc#2] TREKFLAX: teleported to a waypoint
-[0:10:07] [hQwFc#2] TREKFLAX: enabled noclip
-[0:10:08] [hQwFc#2] TREKFLAX: became mortal (standard mode)
-[0:10:09] [hQwFc#2] TREKFLAX: enabled noclip
-[0:10:09] [hQwFc#2] TREKFLAX: became mortal (standard mode)
-[0:10:59] [hQwFc#2] TREKFLAX: teleported to player [#3] ALEXIS (x=411.429, y=-979.345, z=29.415)
-[0:11:01] [hQwFc#3] ALEXIS: spawned a vehicle (model: issi5)
-[0:11:06] [hQwFc#3] ALEXIS: deleted a vehicle
-[0:11:11] [hQwFc#3] ALEXIS: spawned a vehicle (model: coquette)
-[0:11:49] [hQwFc#2] TREKFLAX: enabled noclip
-[0:11:50] [hQwFc#2] TREKFLAX: became mortal (standard mode)
-[0:12:03] [hQwFc#2] TREKFLAX: enabled noclip
-[0:12:05] [hQwFc#2] TREKFLAX: became mortal (standard mode)
-[0:12:07] [hQwFc#2] TREKFLAX: enabled noclip
-[0:12:07] [hQwFc#2] TREKFLAX: became mortal (standard mode)
-[0:12:09] [hQwFc#2] TREKFLAX: enabled noclip
-[0:12:09] [hQwFc#2] TREKFLAX: became mortal (standard mode)
-[0:12:11] [hQwFc#2] TREKFLAX: enabled noclip
-[0:12:13] [hQwFc#2] TREKFLAX: became mortal (standard mode)
-[0:12:24] [hQwFc#2] TREKFLAX: enabled noclip
-[0:12:25] [hQwFc#2] TREKFLAX: became mortal (standard mode)
-[0:13:53] [hQwFc#2] TREKFLAX: enabled noclip
-[0:13:59] [hQwFc#2] TREKFLAX: became mortal (standard mode)
-[0:14:07] [hQwFc#3] ALEXIS: teleported to a waypoint
-[0:14:12] [hQwFc#3] ALEXIS: enabled noclip
-[0:14:18] [hQwFc#3] ALEXIS: became mortal (standard mode)
-[0:15:44] [hQwFc#3] ALEXIS: turned show player IDs on
-[0:15:54] [hQwFc#3] ALEXIS: spawned a vehicle (model: coquette)
-[0:16:38] [hQwFc#3] ALEXIS: spawned a vehicle (model: tyrant)
-[0:17:23] [hQwFc#2] TREKFLAX: said "/locate"
-[0:18:48] [hQwFc#2] TREKFLAX: enabled noclip
-[0:19:01] [hQwFc#2] TREKFLAX: teleported to player [#3] ALEXIS (x=2748.303, y=3472.655, z=55.667)
-[0:19:04] [hQwFc#2] TREKFLAX: became mortal (standard mode)
-[0:19:56] [hQwFc#2] TREKFLAX: enabled noclip
-[0:19:58] [hQwFc#2] TREKFLAX: became mortal (standard mode)
-[0:20:56] [hQwFc#2] TREKFLAX: enabled noclip
-[0:20:56] [hQwFc#2] TREKFLAX: became mortal (standard mode)
-[0:22:17] [hQwFc#2] TREKFLAX: enabled noclip
-[0:22:17] [hQwFc#2] TREKFLAX: became mortal (standard mode)
-[0:22:18] [hQwFc#2] TREKFLAX: enabled noclip
-[0:22:18] [hQwFc#2] TREKFLAX: became mortal (standard mode)
-[0:23:21] [hQwFc#2] TREKFLAX: enabled noclip
-[0:23:22] [hQwFc#2] TREKFLAX: became mortal (standard mode)
-[0:24:33] [hQwFc#3] ALEXIS: said "/callsing alexis"
-[0:25:30] [hQwFc#2] TREKFLAX: enabled noclip
-[0:25:32] [hQwFc#2] TREKFLAX: became mortal (standard mode)
-[0:25:47] [hQwFc#2] TREKFLAX: enabled noclip
-[0:25:48] [hQwFc#2] TREKFLAX: became mortal (standard mode)
-[0:28:31] [hQwFc#2] TREKFLAX: said "w"
-[0:28:33] [hQwFc#2] TREKFLAX: enabled noclip
-[0:28:37] [hQwFc#2] TREKFLAX: became mortal (standard mode)
-[0:28:38] [hQwFc#2] TREKFLAX: enabled noclip
-[0:28:46] [hQwFc#2] TREKFLAX: became mortal (standard mode)
-[0:28:51] [hQwFc#3] ALEXIS: teleported to a waypoint
-[0:28:56] [hQwFc#3] ALEXIS: enabled noclip
-[0:29:11] [hQwFc#3] ALEXIS: became mortal (standard mode)
-[0:29:16] [hQwFc#2] TREKFLAX: enabled noclip
-[0:29:20] [hQwFc#2] TREKFLAX: became mortal (standard mode)
-[0:29:35] [hQwFc#2] TREKFLAX: enabled noclip
-[0:29:35] [hQwFc#2] TREKFLAX: became mortal (standard mode)
-[0:29:44] [hQwFc#2] TREKFLAX: teleported to player [#3] ALEXIS (x=1818.884, y=2605.925, z=45.557)
-[0:29:49] [hQwFc#2] TREKFLAX: enabled noclip
-[0:29:52] [hQwFc#2] TREKFLAX: became mortal (standard mode)
-[0:30:00] [hQwFc#3] ALEXIS: enabled noclip
-[0:30:01] [hQwFc#3] ALEXIS: became mortal (standard mode)
-[0:30:19] [hQwFc#2] TREKFLAX: enabled noclip
-[0:30:20] [hQwFc#2] TREKFLAX: became mortal (standard mode)
-[0:30:24] [hQwFc#2] TREKFLAX: enabled noclip
-[0:30:24] [hQwFc#2] TREKFLAX: became mortal (standard mode)
-[0:30:30] [hQwFc#2] TREKFLAX: enabled noclip
-[0:30:30] [hQwFc#2] TREKFLAX: became mortal (standard mode)
-[0:30:35] [hQwFc#3] ALEXIS: enabled noclip
-[0:30:35] [hQwFc#3] ALEXIS: became mortal (standard mode)
-[0:30:46] [hQwFc#3] ALEXIS: died from suicide
-[0:30:54] [hQwFc#3] ALEXIS: healed themself
-[0:30:56] [hQwFc#2] TREKFLAX: enabled noclip
-[0:31:01] [hQwFc#2] TREKFLAX: became mortal (standard mode)
-[0:31:07] [hQwFc#2] TREKFLAX: enabled noclip
-[0:31:09] [hQwFc#2] TREKFLAX: became mortal (standard mode)
-[0:36:35] [hQwFc#2] TREKFLAX: boosted their vehicle
-[0:36:59] [hQwFc#3] ALEXIS: died from suicide (Falling)
-[0:37:02] [hQwFc#2] TREKFLAX: said "/suelo"
-[0:37:04] [hQwFc#3] ALEXIS: healed themself
-[0:37:11] [hQwFc#2] TREKFLAX: healed themself
-[0:37:11] [hQwFc#2] TREKFLAX: healed themself
-[0:37:11] [hQwFc#2] TREKFLAX: healed all players!
-[0:37:11] [hQwFc#2] TREKFLAX: healed all players!
-[0:37:12] [hQwFc#2] TREKFLAX: healed all players!
-[0:37:12] [hQwFc#2] TREKFLAX: healed all players!
-[0:37:12] [hQwFc#2] TREKFLAX: healed all players!
-[0:37:13] [hQwFc#3] ALEXIS: healed themself
-[0:37:15] [hQwFc#2] TREKFLAX: repaired their vehicle
-[0:37:33] [hQwFc#3] ALEXIS: boosted their vehicle
-[0:37:35] [hQwFc#3] ALEXIS: boosted their vehicle
-[0:37:35] [hQwFc#3] ALEXIS: boosted their vehicle
-[0:37:35] [hQwFc#3] ALEXIS: boosted their vehicle
-[0:37:35] [hQwFc#3] ALEXIS: boosted their vehicle
-[0:37:35] [hQwFc#3] ALEXIS: boosted their vehicle
-[0:37:36] [hQwFc#3] ALEXIS: boosted their vehicle
-[0:37:36] [hQwFc#3] ALEXIS: boosted their vehicle
-[0:37:52] [hQwFc#3] ALEXIS: died from suicide (Falling)
-[0:37:54] [hQwFc#2] TREKFLAX: enabled noclip
-[0:37:54] [hQwFc#2] TREKFLAX: became mortal (standard mode)
-[0:38:01] [hQwFc#3] ALEXIS: healed themself
-[0:38:01] [hQwFc#3] ALEXIS: healed themself
-[0:38:01] [hQwFc#3] ALEXIS: healed themself
-[0:38:07] txAdmin: ((Broadcast) GRINMORD): said "reinicio"
-[0:38:12] [hQwFc#3] ALEXIS: disconnected ([txAdmin] Reiniciando Servidor (requested by GRINMORD).)
-[0:38:12] [hQwFc#2] TREKFLAX: disconnected ([txAdmin] Reiniciando Servidor (requested by GRINMORD).)
-[0:38:32] txAdmin: Logger started
-[0:38:58] [RkBaC#1] TREKFLAX: joined with identifiers [license:b3beb1fb1227c9b746b4c1d1f311e378a1cb61a9; discord:726585674756522077; fivem:13748322; license2:b3beb1fb1227c9b746b4c1d1f311e378a1cb61a9]
-[0:39:59] [RkBaC#2] ALEXIS: joined with identifiers [license:e95752a787a62fedc9ee82e9297df538a1bd84fd; discord:996146191953834125; fivem:13797818; license2:e95752a787a62fedc9ee82e9297df538a1bd84fd]
-[0:41:36] [RkBaC#1] TREKFLAX: disconnected (Server->client connection timed out. Last seen 42109 msec ago.)
-[0:41:46] [RkBaC#3] TREKFLAX: joined with identifiers [license:b3beb1fb1227c9b746b4c1d1f311e378a1cb61a9; discord:726585674756522077; fivem:13748322; license2:b3beb1fb1227c9b746b4c1d1f311e378a1cb61a9]
-[0:42:28] [RkBaC#2] ALEXIS: said "/txc"
-[0:42:40] [RkBaC#2] ALEXIS: teleported to a waypoint
-[0:43:00] [RkBaC#3] TREKFLAX: enabled noclip
-[0:43:03] [RkBaC#3] TREKFLAX: became mortal (standard mode)
-[0:43:31] [RkBaC#2] ALEXIS: teleported to a waypoint
-[0:43:36] [RkBaC#2] ALEXIS: enabled noclip
-[0:44:28] [RkBaC#2] ALEXIS: became mortal (standard mode)
-[0:44:29] [RkBaC#2] ALEXIS: enabled noclip
-[0:44:49] [RkBaC#2] ALEXIS: became mortal (standard mode)
-[0:45:58] [RkBaC#2] ALEXIS: teleported to a waypoint
-[0:48:10] [RkBaC#3] TREKFLAX: enabled noclip
-[0:48:10] [RkBaC#3] TREKFLAX: became mortal (standard mode)
-[0:48:11] [RkBaC#3] TREKFLAX: enabled noclip
-[0:48:13] [RkBaC#3] TREKFLAX: became mortal (standard mode)
-[0:48:17] [RkBaC#3] TREKFLAX: enabled noclip
-[0:48:18] [RkBaC#3] TREKFLAX: became mortal (standard mode)
-[0:48:35] [RkBaC#3] TREKFLAX: disconnected (Exiting)
-[0:48:52] [RkBaC#4] TREKFLAX: joined with identifiers [license:b3beb1fb1227c9b746b4c1d1f311e378a1cb61a9; discord:726585674756522077; fivem:13748322; license2:b3beb1fb1227c9b746b4c1d1f311e378a1cb61a9]
-[0:50:54] [RkBaC#4] TREKFLAX: enabled noclip
-[0:50:55] [RkBaC#4] TREKFLAX: became mortal (standard mode)
-[0:51:04] [RkBaC#4] TREKFLAX: enabled noclip
-[0:51:07] [RkBaC#4] TREKFLAX: became mortal (standard mode)
-[0:51:14] [RkBaC#4] TREKFLAX: enabled noclip
-[0:51:21] [RkBaC#4] TREKFLAX: became mortal (standard mode)
-[0:52:05] [RkBaC#4] TREKFLAX: said "/smoke"
-[0:52:15] [RkBaC#4] TREKFLAX: disconnected (Disconnected.)
-[0:52:59] [RkBaC#5] TREKFLAX: joined with identifiers [license:b3beb1fb1227c9b746b4c1d1f311e378a1cb61a9; discord:726585674756522077; fivem:13748322; license2:b3beb1fb1227c9b746b4c1d1f311e378a1cb61a9]
-[0:53:29] [RkBaC#2] ALEXIS: said "/true"
-[0:53:49] [RkBaC#5] TREKFLAX: enabled noclip
-[0:53:50] [RkBaC#5] TREKFLAX: became mortal (standard mode)
-[0:53:56] [RkBaC#5] TREKFLAX: enabled noclip
-[0:54:04] [RkBaC#5] TREKFLAX: became mortal (standard mode)
-[0:54:05] [RkBaC#5] TREKFLAX: enabled noclip
-[0:54:06] [RkBaC#5] TREKFLAX: became mortal (standard mode)
-[0:54:10] [RkBaC#2] ALEXIS: teleported to a waypoint
-[0:54:43] [RkBaC#2] ALEXIS: disconnected (Exiting)
-[0:55:08] [RkBaC#5] TREKFLAX: died from suicide (Falling)
-[0:56:25] [RkBaC#5] TREKFLAX: healed themself
-[0:58:35] [RkBaC#5] TREKFLAX: boosted their vehicle
-[0:59:13] [RkBaC#5] TREKFLAX: enabled noclip
-[0:59:15] [RkBaC#5] TREKFLAX: became mortal (standard mode)
-[0:59:18] [RkBaC#5] TREKFLAX: enabled noclip
-[0:59:19] [RkBaC#5] TREKFLAX: became mortal (standard mode)
-[0:59:21] [RkBaC#5] TREKFLAX: enabled noclip
-[0:59:35] [RkBaC#5] TREKFLAX: became mortal (standard mode)
-[1:01:01] [RkBaC#5] TREKFLAX: disconnected ([txAdmin] Reiniciando Servidor (requested by GRINMORD).)
-[1:05:20] txAdmin: Logger started
-[1:05:45] [6e496#1] TREKFLAX: joined with identifiers [license:b3beb1fb1227c9b746b4c1d1f311e378a1cb61a9; discord:726585674756522077; fivem:13748322; license2:b3beb1fb1227c9b746b4c1d1f311e378a1cb61a9]
-[1:06:06] [6e496#1] TREKFLAX: disconnected ([txAdmin] Reiniciando Servidor (requested by GRINMORD).)
-[1:06:18] txAdmin: Logger started
-[1:07:00] [bM7jc#1] TREKFLAX: joined with identifiers [license:b3beb1fb1227c9b746b4c1d1f311e378a1cb61a9; discord:726585674756522077; fivem:13748322; license2:b3beb1fb1227c9b746b4c1d1f311e378a1cb61a9]
-[1:09:28] [bM7jc#1] TREKFLAX: enabled noclip
-[1:09:33] [bM7jc#1] TREKFLAX: became mortal (standard mode)
-[1:09:34] [bM7jc#1] TREKFLAX: said "/hub"
-[1:09:44] [bM7jc#1] TREKFLAX: said "/hub"
-[1:09:46] [bM7jc#1] TREKFLAX: said "/hud"
-[1:10:14] [bM7jc#1] TREKFLAX: enabled noclip
-[1:10:22] [bM7jc#1] TREKFLAX: became mortal (standard mode)
-[1:10:23] [bM7jc#1] TREKFLAX: enabled noclip
-[1:10:27] [bM7jc#1] TREKFLAX: became mortal (standard mode)
-[1:13:39] [bM7jc#1] TREKFLAX: said "/vecto4"
-[1:16:08] [bM7jc#1] TREKFLAX: teleported to coordinates (x=459.600, y=-986.600, z=24.700)
-[1:16:16] [bM7jc#1] TREKFLAX: enabled noclip
-[1:16:20] [bM7jc#1] TREKFLAX: became mortal (standard mode)
-[1:16:25] [bM7jc#1] TREKFLAX: enabled noclip
-[1:16:54] [bM7jc#1] TREKFLAX: became mortal (standard mode)
-[1:17:41] [bM7jc#1] TREKFLAX: enabled noclip
-[1:18:11] [bM7jc#1] TREKFLAX: became mortal (standard mode)
-[1:19:01] [bM7jc#1] TREKFLAX: teleported to coordinates (x=428.810, y=-1028.950, z=28.960)
-[1:19:14] [bM7jc#2] ALEXIS: joined with identifiers [license:e95752a787a62fedc9ee82e9297df538a1bd84fd; discord:996146191953834125; fivem:13797818; license2:e95752a787a62fedc9ee82e9297df538a1bd84fd]
-[1:20:56] [bM7jc#2] ALEXIS: said "/door"
-[1:21:25] [bM7jc#2] ALEXIS: said "/jov"
-[1:22:15] [bM7jc#1] TREKFLAX: enabled noclip
-[1:22:29] [bM7jc#1] TREKFLAX: became mortal (standard mode)
-[1:23:49] [bM7jc#2] ALEXIS: teleported to a waypoint
-[1:24:19] [bM7jc#2] ALEXIS: teleported to a waypoint
-[1:25:55] [bM7jc#2] ALEXIS: said "/radio"
-[1:28:14] [bM7jc#2] ALEXIS: deleted a vehicle
-[1:29:01] [bM7jc#2] ALEXIS: spawned a vehicle (model: tyrant)
-[1:29:29] [bM7jc#1] TREKFLAX: disconnected (Server->client connection timed out. Last seen 31602 msec ago.)
-[1:30:48] [bM7jc#3] TREKFLAX: joined with identifiers [license:b3beb1fb1227c9b746b4c1d1f311e378a1cb61a9; discord:726585674756522077; fivem:13748322; license2:b3beb1fb1227c9b746b4c1d1f311e378a1cb61a9]
-[1:33:56] [bM7jc#3] TREKFLAX: said "/refesh"
-[1:35:37] [bM7jc#3] TREKFLAX: said "/refersh"
-[1:35:41] [bM7jc#3] TREKFLAX: said "/refesh"
-[1:36:53] [bM7jc#2] ALEXIS: disconnected (Exiting)
-[1:38:11] [bM7jc#4] ALEXIS: joined with identifiers [license:e95752a787a62fedc9ee82e9297df538a1bd84fd; discord:996146191953834125; fivem:13797818; license2:e95752a787a62fedc9ee82e9297df538a1bd84fd]
-[1:42:44] [bM7jc#3] TREKFLAX: died from suicide (Falling)
-[1:43:58] [bM7jc#3] TREKFLAX: healed all players!
-[1:43:58] [bM7jc#3] TREKFLAX: healed all players!
-[1:43:58] [bM7jc#3] TREKFLAX: healed all players!
-[1:43:58] [bM7jc#3] TREKFLAX: healed all players!
-[1:43:58] [bM7jc#3] TREKFLAX: healed all players!
-[1:44:03] [bM7jc#3] TREKFLAX: enabled noclip
-[1:44:05] [bM7jc#3] TREKFLAX: became mortal (standard mode)
-[1:44:07] [bM7jc#3] TREKFLAX: enabled noclip
-[1:44:12] [bM7jc#3] TREKFLAX: became mortal (standard mode)
-[1:45:17] [bM7jc#3] TREKFLAX: enabled noclip
-[1:45:18] [bM7jc#3] TREKFLAX: became mortal (standard mode)
-[1:46:14] [bM7jc#3] TREKFLAX: said "/cargar"
-[1:47:00] [bM7jc#3] TREKFLAX: enabled noclip
-[1:47:01] [bM7jc#3] TREKFLAX: became mortal (standard mode)
-[1:47:03] [bM7jc#3] TREKFLAX: enabled noclip
-[1:47:05] [bM7jc#3] TREKFLAX: became mortal (standard mode)
-[1:47:07] [bM7jc#3] TREKFLAX: enabled noclip
-[1:47:08] [bM7jc#3] TREKFLAX: became mortal (standard mode)
-[1:47:09] [bM7jc#3] TREKFLAX: enabled noclip
-[1:47:12] [bM7jc#3] TREKFLAX: became mortal (standard mode)
-[1:47:14] [bM7jc#3] TREKFLAX: enabled noclip
-[1:47:33] [bM7jc#3] TREKFLAX: became mortal (standard mode)
-[1:47:48] [bM7jc#3] TREKFLAX: said "/cargar"
-[1:47:56] [bM7jc#3] TREKFLAX: said "/cargar"
-[1:49:04] [bM7jc#4] ALEXIS: disconnected (Attempted exploit abuse)
-[1:49:10] [bM7jc#3] TREKFLAX: disconnected (Server->client connection timed out. Last seen 44618 msec ago.)
-[1:49:32] txAdmin: Logger started
-[1:49:58] [qBfD6#1] TREKFLAX: joined with identifiers [license:b3beb1fb1227c9b746b4c1d1f311e378a1cb61a9; discord:726585674756522077; fivem:13748322; license2:b3beb1fb1227c9b746b4c1d1f311e378a1cb61a9]
-[1:50:25] [qBfD6#2] ALEXIS: joined with identifiers [license:e95752a787a62fedc9ee82e9297df538a1bd84fd; discord:996146191953834125; fivem:13797818; license2:e95752a787a62fedc9ee82e9297df538a1bd84fd]
-[1:52:03] [qBfD6#1] TREKFLAX: enabled noclip
-[1:52:10] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[1:52:12] [qBfD6#1] TREKFLAX: enabled noclip
-[1:52:12] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[1:52:13] [qBfD6#1] TREKFLAX: enabled noclip
-[1:52:14] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[1:52:18] [qBfD6#1] TREKFLAX: enabled noclip
-[1:52:21] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[1:52:41] [qBfD6#1] TREKFLAX: enabled noclip
-[1:52:45] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[1:52:52] [qBfD6#1] TREKFLAX: enabled noclip
-[1:52:52] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[1:53:53] [qBfD6#1] TREKFLAX: said "/dados"
-[1:54:23] [qBfD6#1] TREKFLAX: enabled noclip
-[1:54:24] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[1:54:32] [qBfD6#1] TREKFLAX: teleported to player [#2] ALEXIS (x=414.593, y=-971.051, z=29.448)
-[1:54:35] [qBfD6#1] TREKFLAX: enabled noclip
-[1:55:08] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[1:55:10] [qBfD6#1] TREKFLAX: enabled noclip
-[1:55:10] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[1:55:15] [qBfD6#2] ALEXIS: teleported to player [#1] TREKFLAX (x=-747.521, y=-225.811, z=37.115)
-[1:55:49] [qBfD6#2] ALEXIS: enabled noclip
-[1:55:49] [qBfD6#1] TREKFLAX: enabled noclip
-[1:55:51] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[1:55:53] [qBfD6#2] ALEXIS: became mortal (standard mode)
-[1:55:58] [qBfD6#1] TREKFLAX: enabled noclip
-[1:55:59] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[1:57:25] [qBfD6#1] TREKFLAX: enabled noclip
-[1:57:26] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[1:57:34] [qBfD6#1] TREKFLAX: enabled noclip
-[1:57:34] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[1:57:35] [qBfD6#1] TREKFLAX: enabled noclip
-[1:57:35] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[1:58:00] [qBfD6#1] TREKFLAX: deleted a vehicle
-[1:58:35] [qBfD6#2] ALEXIS: died from Pistol Mk2 by TREKFLAX
-[1:58:46] [qBfD6#2] ALEXIS: healed all players!
-[2:01:36] [qBfD6#1] TREKFLAX: enabled noclip
-[2:01:37] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[2:01:57] [qBfD6#1] TREKFLAX: enabled noclip
-[2:02:01] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[2:02:17] [qBfD6#1] TREKFLAX: enabled noclip
-[2:02:18] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[2:02:24] [qBfD6#1] TREKFLAX: enabled noclip
-[2:02:31] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[2:02:51] [qBfD6#1] TREKFLAX: enabled noclip
-[2:02:51] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[2:04:10] [qBfD6#1] TREKFLAX: enabled noclip
-[2:04:10] [qBfD6#2] ALEXIS: spawned a vehicle (model: sc1)
-[2:04:14] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[2:04:20] [qBfD6#1] TREKFLAX: died from suicide (Falling)
-[2:05:32] [qBfD6#1] TREKFLAX: enabled noclip
-[2:05:34] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[2:05:45] [qBfD6#1] TREKFLAX: died from suicide (Falling)
-[2:06:14] [qBfD6#2] ALEXIS: healed all players!
-[2:06:14] [qBfD6#2] ALEXIS: healed all players!
-[2:06:14] [qBfD6#2] ALEXIS: healed all players!
-[2:06:15] [qBfD6#2] ALEXIS: healed all players!
-[2:06:15] [qBfD6#2] ALEXIS: healed all players!
-[2:06:37] [qBfD6#1] TREKFLAX: died from suicide (Falling)
-[2:06:44] [qBfD6#2] ALEXIS: disconnected (Exiting)
-[2:06:56] [qBfD6#1] TREKFLAX: healed themself
-[2:07:32] [qBfD6#3] ALEXIS: joined with identifiers [license:e95752a787a62fedc9ee82e9297df538a1bd84fd; discord:996146191953834125; fivem:13797818; license2:e95752a787a62fedc9ee82e9297df538a1bd84fd]
-[2:08:49] [qBfD6#1] TREKFLAX: died from suicide (Falling)
-[2:08:54] [qBfD6#1] TREKFLAX: healed themself
-[2:08:56] [qBfD6#1] TREKFLAX: enabled noclip
-[2:08:56] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[2:08:57] [qBfD6#1] TREKFLAX: enabled noclip
-[2:08:57] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[2:09:11] [qBfD6#1] TREKFLAX: died from suicide (Falling)
-[2:09:15] [qBfD6#1] TREKFLAX: healed themself
-[2:09:29] [qBfD6#3] ALEXIS: spawned a vehicle (model: coquette)
-[2:09:39] [qBfD6#1] TREKFLAX: enabled noclip
-[2:09:40] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[2:09:42] [qBfD6#1] TREKFLAX: turned show player IDs on
-[2:09:44] [qBfD6#1] TREKFLAX: enabled noclip
-[2:09:57] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[2:10:01] [qBfD6#3] ALEXIS: summoned player [#1] TREKFLAX
-[2:10:04] [qBfD6#1] TREKFLAX: died from suicide (Falling)
-[2:10:23] [qBfD6#1] TREKFLAX: died from Fist by ALEXIS
-[2:10:52] [qBfD6#1] TREKFLAX: enabled noclip
-[2:11:05] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[2:11:47] [qBfD6#1] TREKFLAX: healed themself
-[2:11:59] [qBfD6#1] TREKFLAX: enabled noclip
-[2:11:59] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[2:12:01] [qBfD6#1] TREKFLAX: enabled noclip
-[2:12:01] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[2:12:14] [qBfD6#1] TREKFLAX: enabled noclip
-[2:12:17] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[2:13:10] [qBfD6#3] ALEXIS: teleported to a waypoint
-[2:13:23] [qBfD6#1] TREKFLAX: teleported to player [#3] ALEXIS (x=-1168.418, y=-1573.332, z=4.662)
-[2:13:27] [qBfD6#1] TREKFLAX: enabled noclip
-[2:13:29] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[2:13:36] [qBfD6#1] TREKFLAX: enabled noclip
-[2:13:37] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[2:13:38] [qBfD6#3] ALEXIS: enabled noclip
-[2:13:41] [qBfD6#3] ALEXIS: became mortal (standard mode)
-[2:13:42] [qBfD6#1] TREKFLAX: enabled noclip
-[2:13:43] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[2:13:43] [qBfD6#1] TREKFLAX: enabled noclip
-[2:13:44] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[2:13:45] [qBfD6#1] TREKFLAX: enabled noclip
-[2:13:48] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[2:14:11] [qBfD6#1] TREKFLAX: enabled noclip
-[2:14:12] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[2:14:19] [qBfD6#1] TREKFLAX: enabled noclip
-[2:14:19] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[2:14:22] [qBfD6#1] TREKFLAX: enabled noclip
-[2:14:24] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[2:14:26] [qBfD6#1] TREKFLAX: enabled noclip
-[2:14:26] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[2:14:26] [qBfD6#3] ALEXIS: enabled noclip
-[2:14:36] [qBfD6#3] ALEXIS: became mortal (standard mode)
-[2:14:54] [qBfD6#1] TREKFLAX: died from suicide (Falling)
-[2:14:56] [qBfD6#3] ALEXIS: enabled noclip
-[2:14:57] [qBfD6#3] ALEXIS: became mortal (standard mode)
-[2:15:02] [qBfD6#1] TREKFLAX: healed themself
-[2:15:37] [qBfD6#1] TREKFLAX: died from suicide (Falling)
-[2:15:37] [qBfD6#3] ALEXIS: said "/jair 1"
-[2:15:41] [qBfD6#1] TREKFLAX: healed themself
-[2:15:55] [qBfD6#1] TREKFLAX: enabled noclip
-[2:15:58] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[2:16:37] [qBfD6#1] TREKFLAX: enabled noclip
-[2:16:40] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[2:16:41] [qBfD6#1] TREKFLAX: enabled noclip
-[2:16:48] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[2:16:52] [qBfD6#1] TREKFLAX: enabled noclip
-[2:16:53] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[2:17:02] [qBfD6#1] TREKFLAX: enabled noclip
-[2:17:02] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[2:17:09] [qBfD6#1] TREKFLAX: enabled noclip
-[2:17:13] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[2:17:16] [qBfD6#1] TREKFLAX: enabled noclip
-[2:17:28] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[2:17:43] [qBfD6#1] TREKFLAX: enabled noclip
-[2:17:49] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[2:17:50] [qBfD6#3] ALEXIS: died from suicide (Falling)
-[2:17:59] [qBfD6#1] TREKFLAX: enabled noclip
-[2:17:59] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[2:18:06] [qBfD6#1] TREKFLAX: enabled noclip
-[2:18:18] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[2:18:47] [qBfD6#1] TREKFLAX: enabled noclip
-[2:18:52] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[2:18:57] [qBfD6#1] TREKFLAX: teleported to player [#3] ALEXIS (x=-1239.125, y=-1563.455, z=4.207)
-[2:18:58] [qBfD6#1] TREKFLAX: died from suicide (Falling)
-[2:19:00] [qBfD6#3] ALEXIS: healed all players!
-[2:19:03] [qBfD6#1] TREKFLAX: healed themself
-[2:19:46] [qBfD6#1] TREKFLAX: enabled noclip
-[2:19:57] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[2:20:10] [qBfD6#3] ALEXIS: died from suicide (Fist)
-[2:20:19] [qBfD6#3] ALEXIS: healed all players!
-[2:20:35] [qBfD6#1] TREKFLAX: enabled noclip
-[2:20:51] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[2:20:55] [qBfD6#3] ALEXIS: triggered wild attack on [#1] TREKFLAX
-[2:21:07] [qBfD6#3] ALEXIS: triggered drunk effect on [#1] TREKFLAX
-[2:21:16] [qBfD6#3] ALEXIS: triggered wild attack on [#1] TREKFLAX
-[2:21:19] [qBfD6#3] ALEXIS: set [#1] TREKFLAX on fire
-[2:21:21] [qBfD6#3] ALEXIS: set [#1] TREKFLAX on fire
-[2:21:22] [qBfD6#1] TREKFLAX: died from suicide (Fire)
-[2:21:26] [qBfD6#3] ALEXIS: triggered wild attack on [#1] TREKFLAX
-[2:21:28] [qBfD6#3] ALEXIS: set [#1] TREKFLAX on fire
-[2:21:28] [qBfD6#3] ALEXIS: set [#1] TREKFLAX on fire
-[2:21:30] [qBfD6#3] ALEXIS: set [#1] TREKFLAX on fire
-[2:21:30] [qBfD6#1] TREKFLAX: died from suicide (Animal)
-[2:21:34] [qBfD6#3] ALEXIS: triggered wild attack on [#1] TREKFLAX
-[2:21:34] [qBfD6#3] ALEXIS: triggered wild attack on [#1] TREKFLAX
-[2:21:42] [qBfD6#1] TREKFLAX: healed themself
-[2:22:03] [qBfD6#1] TREKFLAX: enabled noclip
-[2:22:18] [qBfD6#3] ALEXIS: enabled noclip
-[2:22:23] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[2:22:45] [qBfD6#1] TREKFLAX: enabled noclip
-[2:22:49] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[2:22:57] [qBfD6#1] TREKFLAX: enabled noclip
-[2:22:58] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[2:23:13] [qBfD6#3] ALEXIS: became mortal (standard mode)
-[2:23:20] [qBfD6#1] TREKFLAX: enabled noclip
-[2:23:22] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[2:23:22] [qBfD6#3] ALEXIS: said "/hub"
-[2:23:42] [qBfD6#1] TREKFLAX: enabled noclip
-[2:23:45] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[2:23:56] [qBfD6#1] TREKFLAX: enabled noclip
-[2:23:57] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[2:23:58] [qBfD6#1] TREKFLAX: enabled noclip
-[2:24:00] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[2:24:02] [qBfD6#1] TREKFLAX: enabled noclip
-[2:24:03] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[2:24:10] [qBfD6#1] TREKFLAX: enabled noclip
-[2:24:11] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[2:24:22] [qBfD6#1] TREKFLAX: enabled noclip
-[2:24:24] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[2:24:30] [qBfD6#1] TREKFLAX: enabled noclip
-[2:24:33] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[2:24:43] [qBfD6#3] ALEXIS: healed themself
-[2:24:43] [qBfD6#3] ALEXIS: healed themself
-[2:24:43] [qBfD6#3] ALEXIS: healed themself
-[2:24:45] [qBfD6#3] ALEXIS: healed themself
-[2:24:53] [qBfD6#1] TREKFLAX: enabled noclip
-[2:24:53] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[2:24:55] [qBfD6#1] TREKFLAX: enabled noclip
-[2:24:57] [qBfD6#1] TREKFLAX: became mortal (standard mode)
-[2:25:10] [qBfD6#1] TREKFLAX: died from suicide
-[2:25:20] [qBfD6#1] TREKFLAX: healed themself
-[2:25:27] [qBfD6#1] TREKFLAX: spawned a vehicle (model: havok)
-[2:25:36] [qBfD6#3] ALEXIS: disconnected (Exiting)
-[2:25:49] [qBfD6#1] TREKFLAX: died from suicide
-[2:25:55] [qBfD6#1] TREKFLAX: caused an explosion (PLANE)
-[2:25:59] [qBfD6#1] TREKFLAX: healed themself
-[2:26:05] [qBfD6#1] TREKFLAX: disconnected (Disconnected.)
 
 ================================================================
-======== txAdmin Starting - 20/4/2024 12:31:59                  
+======== Log Rotated - 21/4/2024 11:53:06                       
 ================================================================
-[12:33:29] txAdmin: Logger started
-[12:33:42] [HRjL8#1] TREKFLAX: joined with identifiers [license:b3beb1fb1227c9b746b4c1d1f311e378a1cb61a9; discord:726585674756522077; fivem:13748322; license2:b3beb1fb1227c9b746b4c1d1f311e378a1cb61a9]
-[12:35:42] [HRjL8#1] TREKFLAX: enabled noclip
-[12:35:44] [HRjL8#1] TREKFLAX: became mortal (standard mode)
-[12:35:46] [HRjL8#1] TREKFLAX: enabled noclip
-[12:35:46] [HRjL8#1] TREKFLAX: became mortal (standard mode)
-[12:35:50] [HRjL8#1] TREKFLAX: enabled noclip
-[12:35:55] [HRjL8#1] TREKFLAX: became mortal (standard mode)
-[12:36:29] [HRjL8#1] TREKFLAX: disconnected (Disconnected.)
+[11:53:26] txAdmin: Logger started
+[11:53:41] [H9FBn#1] TREKFLAX: joined with identifiers [license:b3beb1fb1227c9b746b4c1d1f311e378a1cb61a9; discord:726585674756522077; fivem:13748322; license2:b3beb1fb1227c9b746b4c1d1f311e378a1cb61a9]
+[11:55:17] [H9FBn#1] TREKFLAX: healed themself
+[11:55:33] [H9FBn#1] TREKFLAX: enabled noclip
+[11:55:38] [H9FBn#1] TREKFLAX: became mortal (standard mode)
+[11:55:46] [H9FBn#1] TREKFLAX: enabled noclip
+[11:55:47] [H9FBn#1] TREKFLAX: became mortal (standard mode)
+[11:56:08] [H9FBn#1] TREKFLAX: enabled noclip
+[11:56:08] [H9FBn#1] TREKFLAX: became mortal (standard mode)
+[11:56:11] [H9FBn#1] TREKFLAX: enabled noclip
+[11:56:17] [H9FBn#1] TREKFLAX: became mortal (standard mode)
+[11:56:17] [H9FBn#1] TREKFLAX: enabled noclip
+[11:56:23] [H9FBn#1] TREKFLAX: became mortal (standard mode)
+[11:58:56] [H9FBn#1] TREKFLAX: enabled noclip
+[11:59:00] [H9FBn#1] TREKFLAX: became mortal (standard mode)
+[11:59:02] [H9FBn#1] TREKFLAX: enabled noclip
+[11:59:02] [H9FBn#1] TREKFLAX: became mortal (standard mode)
+[11:59:03] [H9FBn#1] TREKFLAX: enabled noclip
+[11:59:04] [H9FBn#1] TREKFLAX: became mortal (standard mode)
+[11:59:06] [H9FBn#1] TREKFLAX: enabled noclip
+[11:59:07] [H9FBn#1] TREKFLAX: became mortal (standard mode)
+[11:59:44] [H9FBn#1] TREKFLAX: enabled noclip
+[11:59:44] [H9FBn#1] TREKFLAX: became mortal (standard mode)
+[12:27:55] [H9FBn#1] TREKFLAX: disconnected ([txAdmin] Reiniciando Servidor (requested by GRINMORD).)
+[12:28:17] txAdmin: Logger started
+[12:29:19] txAdmin: Logger started
+[12:30:22] txAdmin: Logger started
+[12:30:45] txAdmin: Logger started
+[12:31:12] [nMQfE#1] TREKFLAX: joined with identifiers [license:b3beb1fb1227c9b746b4c1d1f311e378a1cb61a9; discord:726585674756522077; fivem:13748322; license2:b3beb1fb1227c9b746b4c1d1f311e378a1cb61a9]
+[12:32:37] [nMQfE#1] TREKFLAX: enabled noclip
+[12:32:42] [nMQfE#1] TREKFLAX: became mortal (standard mode)
+[12:33:44] [nMQfE#1] TREKFLAX: enabled noclip
+[12:33:58] [nMQfE#1] TREKFLAX: became mortal (standard mode)
+[12:34:00] [nMQfE#1] TREKFLAX: enabled noclip
+[12:34:00] [nMQfE#1] TREKFLAX: became mortal (standard mode)
+[12:34:04] [nMQfE#1] TREKFLAX: enabled noclip
+[12:34:04] [nMQfE#1] TREKFLAX: became mortal (standard mode)
+[12:34:05] [nMQfE#1] TREKFLAX: enabled noclip
+[12:34:06] [nMQfE#1] TREKFLAX: became mortal (standard mode)
+[12:35:45] [nMQfE#1] TREKFLAX: enabled noclip
+[12:35:50] [nMQfE#1] TREKFLAX: became mortal (standard mode)
+[12:35:51] [nMQfE#1] TREKFLAX: enabled noclip
+[12:35:58] [nMQfE#1] TREKFLAX: became mortal (standard mode)
+[12:39:32] [nMQfE#1] TREKFLAX: enabled noclip
+[12:39:36] [nMQfE#1] TREKFLAX: became mortal (standard mode)
+[12:39:38] [nMQfE#1] TREKFLAX: enabled noclip
+[12:39:44] [nMQfE#1] TREKFLAX: became mortal (standard mode)
+[12:39:44] [nMQfE#1] TREKFLAX: enabled noclip
+[12:39:47] [nMQfE#1] TREKFLAX: became mortal (standard mode)
+[12:39:58] [nMQfE#1] TREKFLAX: repaired their vehicle
+[12:39:59] [nMQfE#1] TREKFLAX: deleted a vehicle
+[12:40:27] [nMQfE#1] TREKFLAX: said "/os_policegarage"
+[12:40:28] [nMQfE#1] TREKFLAX: said "/os_policegarage"
+[12:40:32] [nMQfE#1] TREKFLAX: said "/os-policegarage"
+[12:41:25] [nMQfE#1] TREKFLAX: teleported to a waypoint
+[12:42:21] [nMQfE#1] TREKFLAX: enabled noclip
+[12:42:29] [nMQfE#1] TREKFLAX: became mortal (standard mode)
+[12:45:07] [nMQfE#1] TREKFLAX: enabled noclip
+[12:45:08] [nMQfE#1] TREKFLAX: became mortal (standard mode)
+[12:45:10] [nMQfE#1] TREKFLAX: enabled noclip
+[12:45:20] [nMQfE#1] TREKFLAX: became mortal (standard mode)
+[12:45:21] [nMQfE#1] TREKFLAX: enabled noclip
+[12:45:22] [nMQfE#1] TREKFLAX: became mortal (standard mode)
+[12:45:25] [nMQfE#1] TREKFLAX: enabled noclip
+[12:45:35] [nMQfE#1] TREKFLAX: became mortal (standard mode)
+[12:45:55] [nMQfE#1] TREKFLAX: enabled noclip
+[12:45:55] [nMQfE#1] TREKFLAX: became mortal (standard mode)
+[12:46:06] [nMQfE#1] TREKFLAX: enabled noclip
+[12:46:18] [nMQfE#1] TREKFLAX: became mortal (standard mode)
+[12:46:27] [nMQfE#1] TREKFLAX: enabled noclip
+[12:46:31] [nMQfE#1] TREKFLAX: became mortal (standard mode)
+[12:46:37] [nMQfE#1] TREKFLAX: enabled noclip
+[12:46:43] [nMQfE#1] TREKFLAX: became mortal (standard mode)
+[12:47:03] [nMQfE#1] TREKFLAX: enabled noclip
+[12:47:04] [nMQfE#1] TREKFLAX: became mortal (standard mode)
+[12:47:07] [nMQfE#1] TREKFLAX: enabled noclip
+[12:47:08] [nMQfE#1] TREKFLAX: became mortal (standard mode)
+[12:47:15] [nMQfE#1] TREKFLAX: deleted a vehicle
+[12:47:19] [nMQfE#1] TREKFLAX: enabled noclip
+[12:47:23] [nMQfE#1] TREKFLAX: became mortal (standard mode)
+[12:47:32] [nMQfE#1] TREKFLAX: healed themself
+[12:47:35] [nMQfE#1] TREKFLAX: enabled noclip
+[12:47:36] [nMQfE#1] TREKFLAX: became mortal (standard mode)
+[12:47:43] [nMQfE#1] TREKFLAX: enabled noclip
+[12:47:43] [nMQfE#1] TREKFLAX: became mortal (standard mode)
+[12:47:59] [nMQfE#1] TREKFLAX: enabled noclip
+[12:47:59] [nMQfE#1] TREKFLAX: became mortal (standard mode)
+[12:48:01] [nMQfE#1] TREKFLAX: enabled noclip
+[12:48:01] [nMQfE#1] TREKFLAX: became mortal (standard mode)
+[12:48:03] [nMQfE#1] TREKFLAX: enabled noclip
+[12:48:08] [nMQfE#1] TREKFLAX: became mortal (standard mode)
+[12:48:43] [nMQfE#1] TREKFLAX: disconnected ([txAdmin] Apagando el servidor: (requested by GRINMORD).)
