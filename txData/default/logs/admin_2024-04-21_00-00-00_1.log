@@ -1,0 +1,30 @@
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 7900 Starting - 21/4/2024 11:53:05
+================================================================
+
+================================================================
+======== Log Rotated - 21/4/2024 11:53:05                       
+================================================================
+[11:53:08][GRINMORD] logged in from 127.0.0.1 via password
+[12:27:55][GRINMORD] executed "RESTART SERVER"
+[12:29:01][MONITOR] Restarting server (server close detected).
+[12:30:08][MONITOR] Restarting server (server close detected).
+[12:30:31][GRINMORD] executed "RESTART SERVER"
+[12:48:43][GRINMORD] executed "STOP SERVER"
+[12:48:54][GRINMORD] executed "START SERVER"
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 7900 Starting - 21/4/2024 12:49:44
+================================================================
+[12:49:51][GRINMORD] logged in from 127.0.0.1 via password
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 7900 Starting - 21/4/2024 14:12:35
+================================================================
+[15:07:45][GRINMORD] logged in from 127.0.0.1 via password
+[15:07:56][GRINMORD] executed "RESTART SERVER"
+[15:12:17][GRINMORD] Editing user 'alexis'.
+[15:12:33][GRINMORD] Editing user 'alexis'.
+[15:20:06][GRINMORD] Kicked #TREKFLAX: a
+[15:26:45][GRINMORD] executed "RESTART SERVER"

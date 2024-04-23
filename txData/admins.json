@@ -39,7 +39,29 @@
       }
     },
     "permissions": [
-      "all_permissions"
+      "manage.admins",
+      "settings.view",
+      "settings.write",
+      "console.view",
+      "console.write",
+      "control.server",
+      "commands.resources",
+      "server.cfg.editor",
+      "txadmin.log.view",
+      "menu.vehicle",
+      "menu.clear_area",
+      "menu.viewids",
+      "players.message",
+      "players.whitelist",
+      "players.warn",
+      "players.kick",
+      "players.ban",
+      "players.freeze",
+      "players.heal",
+      "players.playermode",
+      "players.spectate",
+      "players.teleport",
+      "players.troll"
     ]
   }
 ]
